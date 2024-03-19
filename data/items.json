@@ -1,1 +1,14 @@
-[{"id":"t8dom9hbl","name":"Pedro"},{"id":"rvn8gouqd","name":"Luan","email":"teste@teste.com","phone":"1199999-9999"}]
+[
+    {
+        "id": "47rk89vsn",
+        "name": "Pedro",
+        "email": "pedro@teste.com",
+        "phone": "1199999-9999"
+    },
+    {
+        "id": "jgtp5v24c",
+        "name": "Luan",
+        "email": "luan@teste.com",
+        "phone": "1199999-9999"
+    }
+]
